@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Text",
+    "id": "18358b2d-f03a-4748-8f61-d7b762c721c1",
+    "actor": "???",
+    "name": "Yo! How's it going!!",
+    "next": "c6682509-908a-4634-b9c8-2ce5b5fafc9e"
+  },
+  {
+    "type": "Text",
+    "id": "c6682509-908a-4634-b9c8-2ce5b5fafc9e",
+    "actor": "Asix Jin",
+    "name": "My name is Asix Jin and this is my Dialog Manager!",
+    "next": "e823c972-65b2-4ba4-807f-8bfde2f51482"
+  },
+  {
+    "type": "Text",
+    "id": "e823c972-65b2-4ba4-807f-8bfde2f51482",
+    "actor": "Asix Jin",
+    "name": "I can import specially formatted scripts and have them play out here.",
+    "next": "3e0c59b0-8f51-42e6-a860-f2f1e1fb9312"
+  },
+  {
+    "type": "Text",
+    "id": "3e0c59b0-8f51-42e6-a860-f2f1e1fb9312",
+    "actor": "Asix Jin",
+    "name": "Pretty Cool huh?",
+    "choices": [
+      "18cb12fa-f4cf-40e5-865f-dcec1e024b5f",
+      "dd1b4885-944a-442b-ace7-533421918b30"
+    ]
+  },
+  {
+    "type": "Choice",
+    "id": "18cb12fa-f4cf-40e5-865f-dcec1e024b5f",
+    "title": "This is the shit!",
+    "name": "This is the shit!",
+    "next": "01fd5898-feb4-40c6-9884-7b035ced3146"
+  },
+  {
+    "type": "Choice",
+    "id": "dd1b4885-944a-442b-ace7-533421918b30",
+    "title": "No...You Wack!",
+    "name": "No...You Wack!",
+    "next": "f4586963-0ed3-43a7-91c3-16a9b1960b56"
+  },
+  {
+    "type": "Text",
+    "id": "01fd5898-feb4-40c6-9884-7b035ced3146",
+    "actor": "Asix Jin",
+    "name": "Yeah I am pretty dope!! n_n",
+    "next": "71cdd731-86a9-429a-bd23-a36848a23051"
+  },
+  {
+    "type": "Text",
+    "id": "f4586963-0ed3-43a7-91c3-16a9b1960b56",
+    "actor": "Asix Jin",
+    "name": "...Well you are an asshole",
+    "next": "71cdd731-86a9-429a-bd23-a36848a23051"
+  },
+  {
+    "type": "Text",
+    "id": "71cdd731-86a9-429a-bd23-a36848a23051",
+    "actor": "Asix Jin",
+    "name": "Anyways, more to come and don't forget to check out my Sonic Pi Demonstration!",
+    "next": null
+  }
+]
